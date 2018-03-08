@@ -15,7 +15,6 @@ I love pretzels :cookie:, matcha powder :tea:, and college acceptance letters :c
   - Where would I get this information from?
 - The type of backdrop a user would like to see
   - Blank screen (can choose color)/forest/beach
-- 
   
 **2. outputs:**
 
