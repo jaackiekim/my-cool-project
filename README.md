@@ -6,7 +6,6 @@ I love pretzels :cookie:, matcha powder :tea:, and college acceptance letters :c
 
 **Notes for my-cool-project 5/7/18**
 
--
 
 **1. inputs:** 
 
