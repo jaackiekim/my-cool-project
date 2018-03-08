@@ -6,10 +6,11 @@ I love pretzels :cookie:, matcha powder :tea:, and college acceptance letters :c
 
 **Notes for my-cool-project 5/7/18**
 
+-
+
 **1. inputs:** 
 
 - The amount of time a user wishes to use the timer for - ex. 15 minutes, 30 minutes, 1 hour, 2 hours. 
-  - 
 - The type of music a user wishes to listen to 
   - White noise/classical/jazz/none
   - Where would I get this information from?
