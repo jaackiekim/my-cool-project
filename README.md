@@ -4,7 +4,7 @@ My first repository on GitHub
 
 I love pretzels :cookie:, matcha powder :tea:, and college acceptance letters :computer:. 
 
-Notes for my-cool-project 5/7/18
+- Notes for my-cool-project 5/7/18
 
 **1. inputs:** 
 
