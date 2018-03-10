@@ -33,3 +33,7 @@ I love pretzels :cookie:, matcha powder :tea:, and college acceptance letters :c
 - numbers: the 15, 30, 1 hour, etc signs // 
 - strings: when a user wants to work for more than 2 hours, they can set a custom timer 
 - if/then statements: if a user studies for 25 minutes, then set a 5 minute timer for their break. 
+
+**next steps**
+
+
