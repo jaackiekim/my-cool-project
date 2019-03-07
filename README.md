@@ -2,8 +2,6 @@
 
 My first repository on GitHub
 
-I love pretzels :cookie:, matcha powder :tea:, and college acceptance letters :computer:. 
-
 **Notes for my-cool-project 5/7/18**
 
 
@@ -18,7 +16,6 @@ I love pretzels :cookie:, matcha powder :tea:, and college acceptance letters :c
   
 **2. outputs:**
 
-*note to self: obtain a minimalistic approach*
 - The user would see their choice of backdrop picture on their screen.
 - The time remaining will remain small (so it does not distract the user), and at the center-bottom of the page. 
 - There will be the user's music of choice playing in the background. If the user wishes to stop playing music, there will be a button for stop/play in the center-bottom. 
